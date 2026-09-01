@@ -2,10 +2,6 @@
 
 <br>
 
-<img src="./profile.png" width="150" alt="Radha Krishna">
-
-<br><br>
-
 # RADHA KRISHNA
 
 ### COMPUTER SCIENCE STUDENT · FULL STACK DEVELOPER · AI/ML ENTHUSIAST
@@ -13,26 +9,35 @@
 <br>
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=2600&pause=800&color=2563EB&center=true&vCenter=true&width=720&lines=Building+real-world+software;Full+Stack+Development;Java+%7C+Python+%7C+JavaScript;Exploring+AI+%26+Machine+Learning;Creating+%7C+Learning+%7C+Improving;Open+to+Internships+%26+Entry-Level+Roles"
-  alt="Typing Introduction"
+  src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=2600&pause=800&color=2563EB&center=true&vCenter=true&width=760&lines=Building+real-world+software;Full+Stack+Development;Java+%7C+Python+%7C+JavaScript;Exploring+AI+%26+Machine+Learning;Creating+%7C+Learning+%7C+Improving;Open+to+Internships+%26+Entry-Level+Roles"
+  alt="Introduction"
 />
 
 <br><br>
 
 <a href="https://jagarlapudiradhakrishna0.github.io/Portfolio/">
-  <img src="https://img.shields.io/badge/PORTFOLIO-111111?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio">
+  <img
+    src="https://img.shields.io/badge/PORTFOLIO-111111?style=for-the-badge&logo=googlechrome&logoColor=white"
+    alt="Portfolio"
+  />
 </a>
 
 &nbsp;
 
 <a href="https://www.linkedin.com/in/jagarlapudiradhakrishna/">
-  <img src="https://img.shields.io/badge/LINKEDIN-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  <img
+    src="https://img.shields.io/badge/LINKEDIN-2563EB?style=for-the-badge&logo=linkedin&logoColor=white"
+    alt="LinkedIn"
+  />
 </a>
 
 &nbsp;
 
 <a href="https://github.com/Jagarlapudiradhakrishna0">
-  <img src="https://img.shields.io/badge/GITHUB-111111?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  <img
+    src="https://img.shields.io/badge/GITHUB-111111?style=for-the-badge&logo=github&logoColor=white"
+    alt="GitHub"
+  />
 </a>
 
 <br><br>
@@ -59,9 +64,9 @@
   alt="Technology Animation"
 />
 
-</div>
+<br><br>
 
-<br>
+</div>
 
 ---
 
@@ -72,7 +77,7 @@ development, artificial intelligence, machine learning,
 and building practical applications.
 
 I enjoy learning through projects — turning ideas into
-working software and continuously improving my technical
+working software while continuously improving my technical
 and problem-solving skills.
 
 Currently seeking **internships and entry-level software
@@ -109,18 +114,19 @@ platform.
 
 **TECHNOLOGY**
 
-`React Native` · `Expo`  
+`React Native` · `Expo`
+
 `Node.js` · `MongoDB`
 
 <br>
 
 **FOCUS**
 
-Mobile Development  
-Real-Time Communication  
-Navigation · Location Services
+Mobile Development
 
-<br>
+Real-Time Communication
+
+Navigation · Location Services
 
 </td>
 
@@ -139,7 +145,8 @@ and matching lost and found items.
 
 **TECHNOLOGY**
 
-`React` · `Node.js`  
+`React` · `Node.js`
+
 `MongoDB`
 
 <br>
@@ -151,13 +158,19 @@ Full Stack · Search · Data Management
 <br>
 
 <a href="https://lostandfound-1vzs.onrender.com/">
-  <img src="https://img.shields.io/badge/LIVE-2563EB?style=flat-square&logoColor=white" alt="Live Project">
+  <img
+    src="https://img.shields.io/badge/LIVE-2563EB?style=flat-square&logoColor=white"
+    alt="Live Project"
+  />
 </a>
 
 &nbsp;
 
 <a href="https://github.com/Jagarlapudiradhakrishna0/project_lost_and_found">
-  <img src="https://img.shields.io/badge/CODE-111111?style=flat-square&logo=github&logoColor=white" alt="Source Code">
+  <img
+    src="https://img.shields.io/badge/CODE-111111?style=flat-square&logo=github&logoColor=white"
+    alt="Source Code"
+  />
 </a>
 
 </td>
@@ -174,33 +187,41 @@ Full Stack · Search · Data Management
 
 **AI-Powered Assistant**
 
-An AI assistant project exploring intelligent
-interaction and AI-powered user experiences.
+An AI assistant project exploring intelligent interaction
+and AI-powered user experiences.
 
 <br>
 
 **TECHNOLOGY**
 
-`JavaScript` · `AI`  
+`JavaScript` · `AI`
+
 `Web Technologies`
 
 <br>
 
 **FOCUS**
 
-Artificial Intelligence  
+Artificial Intelligence
+
 User Interaction · Web Development
 
 <br>
 
 <a href="https://immiaassistant.netlify.app/">
-  <img src="https://img.shields.io/badge/LIVE-2563EB?style=flat-square&logoColor=white" alt="Live Project">
+  <img
+    src="https://img.shields.io/badge/LIVE-2563EB?style=flat-square&logoColor=white"
+    alt="Live Project"
+  />
 </a>
 
 &nbsp;
 
 <a href="https://github.com/Jagarlapudiradhakrishna0/MiaAi">
-  <img src="https://img.shields.io/badge/CODE-111111?style=flat-square&logo=github&logoColor=white" alt="Source Code">
+  <img
+    src="https://img.shields.io/badge/CODE-111111?style=flat-square&logo=github&logoColor=white"
+    alt="Source Code"
+  />
 </a>
 
 </td>
@@ -220,26 +241,34 @@ creating a clean and intuitive shopping experience.
 
 **TECHNOLOGY**
 
-`React` · `JavaScript`  
+`React` · `JavaScript`
+
 `Web Technologies`
 
 <br>
 
 **FOCUS**
 
-Frontend Development  
+Frontend Development
+
 E-Commerce · User Experience
 
 <br>
 
 <a href="https://luxein.netlify.app/">
-  <img src="https://img.shields.io/badge/LIVE-2563EB?style=flat-square&logoColor=white" alt="Live Project">
+  <img
+    src="https://img.shields.io/badge/LIVE-2563EB?style=flat-square&logoColor=white"
+    alt="Live Project"
+  />
 </a>
 
 &nbsp;
 
 <a href="https://github.com/Jagarlapudiradhakrishna0/LUXE">
-  <img src="https://img.shields.io/badge/CODE-111111?style=flat-square&logo=github&logoColor=white" alt="Source Code">
+  <img
+    src="https://img.shields.io/badge/CODE-111111?style=flat-square&logo=github&logoColor=white"
+    alt="Source Code"
+  />
 </a>
 
 </td>
@@ -262,10 +291,14 @@ E-Commerce · User Experience
 
 ### LANGUAGES
 
-Java  
-Python  
-JavaScript  
-TypeScript  
+Java
+
+Python
+
+JavaScript
+
+TypeScript
+
 SQL
 
 </td>
@@ -274,8 +307,10 @@ SQL
 
 ### FRONTEND
 
-HTML  
-CSS  
+HTML
+
+CSS
+
 React
 
 </td>
@@ -284,17 +319,20 @@ React
 
 ### BACKEND
 
-Node.js  
+Node.js
+
 Express.js
 
 </td>
 
 <td width="25%" align="center">
 
-### DATA
+### DATABASE
 
-MongoDB  
-MySQL  
+MongoDB
+
+MySQL
+
 PostgreSQL
 
 </td>
@@ -364,7 +402,7 @@ PostgreSQL
 
 <img
   src="https://ghchart.rshah.org/2563EB/Jagarlapudiradhakrishna0"
-  alt="Radha Krishna GitHub Contributions"
+  alt="GitHub Contributions"
   width="850"
 />
 
@@ -373,15 +411,21 @@ PostgreSQL
 <br><br>
 
 </div>
+
+---
+
 # CURRENTLY
 
 <div align="center">
 
 ### LEARNING
 
-`Full Stack Development`  
-`Backend Engineering`  
-`AI / ML`  
+`Full Stack Development`
+
+`Backend Engineering`
+
+`AI / ML`
+
 `System Design`
 
 <br>
@@ -415,19 +459,28 @@ machine learning.
 <br>
 
 <a href="https://jagarlapudiradhakrishna0.github.io/Portfolio/">
-  <img src="https://img.shields.io/badge/PORTFOLIO-111111?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio">
+  <img
+    src="https://img.shields.io/badge/PORTFOLIO-111111?style=for-the-badge&logo=googlechrome&logoColor=white"
+    alt="Portfolio"
+  />
 </a>
 
 &nbsp;
 
 <a href="https://www.linkedin.com/in/jagarlapudiradhakrishna/">
-  <img src="https://img.shields.io/badge/LINKEDIN-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  <img
+    src="https://img.shields.io/badge/LINKEDIN-2563EB?style=for-the-badge&logo=linkedin&logoColor=white"
+    alt="LinkedIn"
+  />
 </a>
 
 &nbsp;
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
-  <img src="https://img.shields.io/badge/EMAIL-111111?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+<a href="mailto:radhakrishnajagarlapudi@gmail.com">
+  <img
+    src="https://img.shields.io/badge/EMAIL-111111?style=for-the-badge&logo=gmail&logoColor=white"
+    alt="Email"
+  />
 </a>
 
 <br><br>
